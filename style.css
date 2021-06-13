@@ -63,6 +63,7 @@ h1 {
   .links li {
     opacity: 0;
   }
+
   .line {
     display: block;
   }
@@ -90,4 +91,7 @@ h1 {
 }
 .toggle .line3 {
   transform: rotate(45deg translate(-5px, -6px));
+}
+li a:hover {
+  color: rgb(204, 142, 178);
 }
